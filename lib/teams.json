@@ -1,0 +1,152 @@
+[
+  {
+    "event_id": "EVT001",
+    "name": "Ben10",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT002",
+    "name": "Binary Brains",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT003",
+    "name": "BlockBuilders",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT004",
+    "name": "ByteMe",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT005",
+    "name": "Chai Pe Charcha",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT006",
+    "name": "ChemicalX",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT007",
+    "name": "CTRL C AND V",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT008",
+    "name": "Devise",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT009",
+    "name": "Dracarys",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT010",
+    "name": "Dynamic Duo",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT011",
+    "name": "Hugs4Bugs",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT012",
+    "name": "InnovateX",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT013",
+    "name": "Late Binding Crew",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT014",
+    "name": "LemonSoda",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT015",
+    "name": "Loop breakers",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT016",
+    "name": "Lost penguins",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT017",
+    "name": "Oversight",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT018",
+    "name": "Pink Protocol",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT019",
+    "name": "RohirRim",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT020",
+    "name": "SE7EN",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT021",
+    "name": "SharkBYTE",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT022",
+    "name": "Stack Attack",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT023",
+    "name": "StackNstake",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT024",
+    "name": "Syntax Squad",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT025",
+    "name": "Team 2135",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT026",
+    "name": "Team EX0",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT027",
+    "name": "TEAM INFINITY",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT028",
+    "name": "Team MAP",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT029",
+    "name": "VORTEX",
+    "isPresent": false
+  },
+  {
+    "event_id": "EVT030",
+    "name": "Wavy",
+    "isPresent": false
+  }
+]
