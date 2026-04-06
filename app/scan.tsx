@@ -1,5 +1,5 @@
 'use client';
-import { CameraView, useCameraPermissions } from 'expo-camera';
+import { CameraView, useCameraPermissions, CameraType } from 'expo-camera';
 import { useRouter } from 'expo-router';
 import { useEffect, useState } from 'react';
 import { Image, Platform, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
@@ -90,6 +90,7 @@ export default function ScanScreen() {
         ) : (
           <CameraView
             style={styles.camera}
+            facing={CameraType.back}
             onBarcodeScanned={({ data }) => handleScannedData(data)}
             barcodeScannerSettings={{ barcodeTypes: ['qr'] }}
           />
